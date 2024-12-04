@@ -67,6 +67,7 @@ Aşağıdakileri yap:
 
 function kopeginYasi(/*buraya kodunu yazabilirsin*/) {
   /*buraya kodunu yazabilirsin*/
+  return
 }
 
 /* Görev 3 */
